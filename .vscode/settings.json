@@ -1,0 +1,10 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/robolab/ros2_ws_ha/install/ros2_fundamentals_example/lib/python3.12/site-packages",
+    "/opt/ros/jazzy/lib/python3.12/site-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/robolab/ros2_ws_ha/install/ros2_fundamentals_example/lib/python3.12/site-packages",
+    "/opt/ros/jazzy/lib/python3.12/site-packages"
+  ]
+}
